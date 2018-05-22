@@ -214,7 +214,7 @@ if __name__ == '__main__':
   cores = 4
   cores2 = 2
 #  timeTest()
-#  plotTest(n, cores, cores2)
+  plotTest(n, cores, cores2)
 #  primeTest()
-  compositeTest()
+#  compositeTest()
 #
